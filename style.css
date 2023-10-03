@@ -1,0 +1,7 @@
+    form button {
+        display: block;
+        margin: 1rem 0rem;
+    } 
+    input[name="success"] {
+        text-align: right;
+    }
